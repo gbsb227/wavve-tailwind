@@ -1,7 +1,7 @@
 # wavve-tailwind
 
 ## 링크
-[wavve-tailwind.vercel.app](wavve-tailwind.vercel.app)
+[wavve-tailwind.vercel.app](https://wavve-tailwind.vercel.app/)
 
 ## 사용기술
 react (vite)
