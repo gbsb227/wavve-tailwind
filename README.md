@@ -1,27 +1,17 @@
-# React + TypeScript + Vite
+# wavve-tailwind
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 링크
+[wavve-tailwind.vercel.app](wavve-tailwind.vercel.app)
 
-Currently, two official plugins are available:
+## 사용기술
+react (vite)
+tailwind
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 특징
+tailwind 연습을 위해 제작한 wavve 첫화면입니다.
+한 페이지만 존재하며 기능은 없습니다.
+이미지는 오픈api tmdb에서 불러왔습니다.
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
-
-- Configure the top-level `parserOptions` property like this:
-
-```js
-   parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-   },
-```
-
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+## 주의사항
+이 프로젝트는 기능이 전혀 없는 가짜 화면 입니다.
+진짜 웨이브가 아니니 주의해주세요.
